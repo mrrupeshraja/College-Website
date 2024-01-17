@@ -1,0 +1,13 @@
+p button{
+    background-color: aqua;
+}
+
+.c1{
+    
+color: rgb(255, 162, 1);
+}
+.c1 button{
+    border: solid lime 2px;
+    color: blueviolet;
+    background-color: lime;
+}
